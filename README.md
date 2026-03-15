@@ -32,7 +32,7 @@ Before running this project, ensure you have the following installed on your sys
 
 ```bash
 pip install mysql-connector-python pandas Pillow
-
+```
 
 .*Database Setup:
 
@@ -43,6 +43,21 @@ You may not need to create a base database in MySQL before running the script (u
 Note: The application is designed to automatically generate the required tables (all_books, issue_b, his_b, iss_b_t) upon initialization.
 
 
+Run the Application:
+
+```bash
+python "Library Management System.py"
+
+```
+
+📂 Database Structure
+The application uses the following core tables to manage data:
+
+.all_books: Stores details of every book (ID, Name, Author, Price, ISBN, etc.).
+
+.issue_b: Tracks currently issued books and the associated student/member details.
+
+.his_b: Maintains a historical log of all past transactions (issue and return dates).
 
 
 
@@ -52,6 +67,7 @@ Note: The application is designed to automatically generate the required tables 
 
 
 
+```bash
 .Clone the repository:
 git clone [https://github.com/yourusername/library-management-system.git](https://https://github.com/aakulalokesh2007-tech/Library_Management_System.git)
 
