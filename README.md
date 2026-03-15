@@ -1,10 +1,10 @@
-# Library_Management_System
+# 📚 Library Management System
 .A Library Management System (LMS) is a digital solution designed to streamline and automate the daily operations of a library.
 .Moving away from traditional, error-prone paper ledgers, an LMS provides a centralized database to track physical and digital assets, manage member profiles, and monitor the flow of borrowed materials
 
 .At its core, the primary goal of an LMS is to make it effortless for librarians to manage their inventory and for patrons to discover and access resources
 
-# 📚 Library Management System
+
 
 A fully-featured, desktop-based Library Management System built with Python. This application provides a graphical user interface (GUI) to manage library inventory, track book issues/returns, and export library data, all backed by a MySQL database.
 
