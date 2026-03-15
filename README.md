@@ -34,10 +34,6 @@ Before running this project, ensure you have the following installed on your sys
 pip install mysql-connector-python pandas Pillow
 
 
-.Clone the repository:
-git clone [https://github.com/yourusername/library-management-system.git](https://https://github.com/aakulalokesh2007-tech/Library_Management_System.git)
-
-
 .*Database Setup:
 
 Ensure your MySQL server is running.
@@ -45,3 +41,19 @@ Ensure your MySQL server is running.
 You may not need to create a base database in MySQL before running the script (update the connection credentials in the Python file if necessary).
 
 Note: The application is designed to automatically generate the required tables (all_books, issue_b, his_b, iss_b_t) upon initialization.
+
+
+
+
+
+
+
+
+
+
+
+.Clone the repository:
+git clone [https://github.com/yourusername/library-management-system.git](https://https://github.com/aakulalokesh2007-tech/Library_Management_System.git)
+
+
+
