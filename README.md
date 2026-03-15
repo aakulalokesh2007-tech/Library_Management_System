@@ -1,5 +1,6 @@
 # Library_Management_System
-A Library Management System (LMS) is a digital solution designed to streamline and automate the daily operations of a library.
+    .A Library Management System (LMS) is a digital solution designed to streamline and automate the daily operations of a library.
+    .Moving away from traditional, error-prone paper ledgers, an LMS provides a centralized database to track physical and digital assets, manage member profiles, and monitor the flow of borrowed materials
 
 
 # 📚 Library Management System
