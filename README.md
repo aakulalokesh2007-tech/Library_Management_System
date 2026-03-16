@@ -1,8 +1,8 @@
 # 📚 Library Management System
-.A Library Management System (LMS) is a digital solution designed to streamline and automate the daily operations of a library.
-.Moving away from traditional, error-prone paper ledgers, an LMS provides a centralized database to track physical and digital assets, manage member profiles, and monitor the flow of borrowed materials
+* A Library Management System (LMS) is a digital solution designed to streamline and automate the daily operations of a library.
+* Moving away from traditional, error-prone paper ledgers, an LMS provides a centralized database to track physical and digital assets, manage member profiles, and monitor the flow of borrowed materials
 
-.At its core, the primary goal of an LMS is to make it effortless for librarians to manage their inventory and for patrons to discover and access resources
+* At its core, the primary goal of an LMS is to make it effortless for librarians to manage their inventory and for patrons to discover and access resources
 
 
 
@@ -36,7 +36,7 @@ Before running this project, ensure you have the following installed on your sys
 pip install mysql-connector-python pandas Pillow
 ```
 
-.*Database Setup:
+* *Database Setup:
 
 Ensure your MySQL server is running.
 
@@ -55,11 +55,11 @@ python "Library Management System.py"
 📂 Database Structure
 The application uses the following core tables to manage data:
 
-.all_books: Stores details of every book (ID, Name, Author, Price, ISBN, etc.).
+* all_books: Stores details of every book (ID, Name, Author, Price, ISBN, etc.).
 
-.issue_b: Tracks currently issued books and the associated student/member details.
+* issue_b: Tracks currently issued books and the associated student/member details.
 
-.his_b: Maintains a historical log of all past transactions (issue and return dates).
+* his_b: Maintains a historical log of all past transactions (issue and return dates).
 
 
 
@@ -75,5 +75,5 @@ git clone [https://github.com/yourusername/library-management-system.git](https:
 ```
 
 # The Technical Benefits
-.Implementing a digital LMS offers massive advantages over manual tracking. It completely eliminates the risk of lost records, provides instant search capabilities, and allows libraries to generate reports on their most popular books or busiest days. Furthermore, modern systems can be hosted in the cloud, giving patrons the ability to log in from home, browse the catalog, and reserve books before ever stepping foot in the physical building
+* Implementing a digital LMS offers massive advantages over manual tracking. It completely eliminates the risk of lost records, provides instant search capabilities, and allows libraries to generate reports on their most popular books or busiest days. Furthermore, modern systems can be hosted in the cloud, giving patrons the ability to log in from home, browse the catalog, and reserve books before ever stepping foot in the physical building
 
