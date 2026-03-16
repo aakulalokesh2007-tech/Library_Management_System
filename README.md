@@ -88,14 +88,14 @@ Designed, developed, and deployed a comprehensive desktop-based Library Manageme
 
 * Real-World Impact
 
-.Active Production Use: Operates as the primary daily tool for tracking all institutional library transactions, proving the software's reliability, stability, and user-friendly design.
+. Active Production Use: Operates as the primary daily tool for tracking all institutional library transactions, proving the software's reliability, stability, and user-friendly design.
 
-.Operational Efficiency: Drastically reduced the time required to log book issues, process returns, and search the catalog by replacing physical records with a highly responsive digital database.
+. Operational Efficiency: Drastically reduced the time required to log book issues, process returns, and search the catalog by replacing physical records with a highly responsive digital database.
 
-.Technical Highlights
+. Technical Highlights
 
-.Database Architecture: Engineered a robust relational database schema using MySQL to securely store book metadata, student profiles, and historical transaction logs.
+. Database Architecture: Engineered a robust relational database schema using MySQL to securely store book metadata, student profiles, and historical transaction logs.
 
-.Administrative Interface: Developed an intuitive, interactive Graphical User Interface (GUI) using Python and Tkinter, specifically tailored for staff with varying levels of technical expertise.
+. Administrative Interface: Developed an intuitive, interactive Graphical User Interface (GUI) using Python and Tkinter, specifically tailored for staff with varying levels of technical expertise.
 
-.Automated Data Export: Integrated Pandas to enable instant data extraction, allowing administrators to seamlessly export active inventory and historical borrowing data for auditing and reporting purposes.
+. Automated Data Export: Integrated Pandas to enable instant data extraction, allowing administrators to seamlessly export active inventory and historical borrowing data for auditing and reporting purposes.
